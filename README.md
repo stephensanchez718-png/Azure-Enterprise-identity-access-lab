@@ -4,3 +4,6 @@ Enterprise-style Azure and Active Directory environment featuring RBAC security 
 <p align="center">
   <img src="screenshots/ad-permissions.png" width="500">
 </p>
+<p align="center">
+  <img src="screenshots/ad-permissions.png" width="500">
+</p>
